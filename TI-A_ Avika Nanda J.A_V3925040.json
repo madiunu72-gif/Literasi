@@ -1,0 +1,614 @@
+{
+  "nama": "Avika Nanda J.A",
+  "nim": "V3925040",
+  "data_proyek_sipmani": {
+    "sumber_teknis": [
+      {
+        "id_data": "ST_001",
+        "deskripsi": "Data cuaca dari satelit",
+        "nilai": "Suhu: 28°C, Kelembaban: 85%, Tekanan Udara: 1012 hPa",
+        "timestamp": "2025-09-17T11:00:00Z"
+      },
+      {
+        "id_data": "ST_002",
+        "deskripsi": "Laporan pergerakan udara",
+        "nilai": "Pergerakan angin dari barat daya dengan kecepatan 15 km/jam",
+        "timestamp": "2025-09-17T11:05:00Z"
+      },
+      {
+        "id_data": "ST_003",
+        "deskripsi": "Deteksi pergerakan drone",
+        "nilai": "Drone tidak dikenal terdeteksi di koordinat -6.2088, 106.8456",
+        "timestamp": "2025-09-17T11:10:00Z"
+      },
+      {
+        "id_data": "ST_004",
+        "deskripsi": "Status Bandara Soekarno-Hatta",
+        "nilai": "Status operasional normal, tidak ada penundaan penerbangan",
+        "timestamp": "2025-09-17T11:15:00Z"
+      },
+      {
+        "id_data": "ST_005",
+        "deskripsi": "Data pergerakan kapal di Selat Malaka",
+        "nilai": "Dua kapal kargo melintas, identitas terverifikasi",
+        "timestamp": "2025-09-17T11:20:00Z"
+      },
+      {
+        "id_data": "ST_006",
+        "deskripsi": "Pemantauan fasilitas PLN",
+        "nilai": "Kapasitas Pembangkit Listrik Tenaga Air (PLTA) Saguling 90%",
+        "timestamp": "2025-09-17T11:25:00Z"
+      },
+      {
+        "id_data": "ST_007",
+        "deskripsi": "Laporan perbatasan darat Kalimantan",
+        "nilai": "Tidak ada pergerakan mencurigakan",
+        "timestamp": "2025-09-17T11:30:00Z"
+      },
+      {
+        "id_data": "ST_008",
+        "deskripsi": "Analisis citra satelit",
+        "nilai": "Mendeteksi pembangunan ilegal di wilayah perbatasan",
+        "timestamp": "2025-09-17T11:35:00Z"
+      },
+      {
+        "id_data": "ST_009",
+        "deskripsi": "Data kualitas udara",
+        "nilai": "Indeks Kualitas Udara (AQI) Jakarta: 85 (sedang)",
+        "timestamp": "2025-09-17T11:40:00Z"
+      },
+      {
+        "id_data": "ST_010",
+        "deskripsi": "Pemantauan keamanan siber",
+        "nilai": "Serangan DDoS terdeteksi pada server pemerintah",
+        "timestamp": "2025-09-17T11:45:00Z"
+      },
+      {
+        "id_data": "ST_011",
+        "deskripsi": "Sensor gempa bumi",
+        "nilai": "Getaran kecil terdeteksi di wilayah Jawa Barat, magnitudo 2.1",
+        "timestamp": "2025-09-17T11:50:00Z"
+      },
+      {
+        "id_data": "ST_012",
+        "deskripsi": "Status konektivitas jaringan",
+        "nilai": "Koneksi jaringan telekomunikasi di Sulawesi utara terputus",
+        "timestamp": "2025-09-17T11:55:00Z"
+      },
+      {
+        "id_data": "ST_013",
+        "deskripsi": "Laporan radar maritim",
+        "nilai": "Kapal nelayan terdeteksi masuk zona terlarang di perairan Natuna",
+        "timestamp": "2025-09-18T00:00:00Z"
+      },
+      {
+        "id_data": "ST_014",
+        "deskripsi": "Sensor pergerakan tanah",
+        "nilai": "Pergerakan tanah terdeteksi di lereng gunung Merapi",
+        "timestamp": "2025-09-18T00:05:00Z"
+      },
+      {
+        "id_data": "ST_015",
+        "deskripsi": "Pemantauan pelabuhan Tanjung Priok",
+        "nilai": "Tingkat kepadatan pelabuhan 80%",
+        "timestamp": "2025-09-18T00:10:00Z"
+      },
+      {
+        "id_data": "ST_016",
+        "deskripsi": "Data sensor kualitas air",
+        "nilai": "Tingkat polusi air sungai Ciliwung meningkat",
+        "timestamp": "2025-09-18T00:15:00Z"
+      },
+      {
+        "id_data": "ST_017",
+        "deskripsi": "Analisis citra satelit",
+        "nilai": "Deteksi kebakaran hutan di Riau",
+        "timestamp": "2025-09-18T00:20:00Z"
+      },
+      {
+        "id_data": "ST_018",
+        "deskripsi": "Data pergerakan udara",
+        "nilai": "Lalu lintas penerbangan domestik normal",
+        "timestamp": "2025-09-18T00:25:00Z"
+      },
+      {
+        "id_data": "ST_019",
+        "deskripsi": "Sensor kelembaban tanah",
+        "nilai": "Kelembaban tanah sangat rendah di wilayah pertanian Jawa",
+        "timestamp": "2025-09-18T00:30:00Z"
+      },
+      {
+        "id_data": "ST_020",
+        "deskripsi": "Deteksi aktivitas ilegal",
+        "nilai": "Aktivitas penambangan ilegal terdeteksi di Kalimantan",
+        "timestamp": "2025-09-18T00:35:00Z"
+      },
+      {
+        "id_data": "ST_021",
+        "deskripsi": "Status pembangkit listrik",
+        "nilai": "Pembangkit Listrik Tenaga Diesel (PLTD) di Papua mengalami gangguan teknis",
+        "timestamp": "2025-09-18T00:40:00Z"
+      },
+      {
+        "id_data": "ST_022",
+        "deskripsi": "Laporan drone patroli",
+        "nilai": "Patroli drone di wilayah perairan utara berhasil mendeteksi pergerakan asing",
+        "timestamp": "2025-09-18T00:45:00Z"
+      },
+      {
+        "id_data": "ST_023",
+        "deskripsi": "Sensor pergerakan kendaraan",
+        "nilai": "Deteksi kepadatan lalu lintas di tol Cipali",
+        "timestamp": "2025-09-18T00:50:00Z"
+      },
+      {
+        "id_data": "ST_024",
+        "deskripsi": "Data radar cuaca",
+        "nilai": "Terdeteksi badai petir di wilayah Bali",
+        "timestamp": "2025-09-18T00:55:00Z"
+      },
+      {
+        "id_data": "ST_025",
+        "deskripsi": "Status infrastruktur jembatan",
+        "nilai": "Sensor menunjukkan stabilitas normal pada Jembatan Suramadu",
+        "timestamp": "2025-09-18T01:00:00Z"
+      }
+    ],
+    "sumber_instansi_nasional": [
+      {
+        "id_data": "SIN_001",
+        "deskripsi": "Laporan intelijen lapangan Polri",
+        "nilai": "Potensi kerusuhan di wilayah Jakarta Pusat",
+        "timestamp": "2025-09-17T11:00:00Z"
+      },
+      {
+        "id_data": "SIN_002",
+        "deskripsi": "Laporan operasi TNI",
+        "nilai": "Patroli perbatasan di Papua Barat menemukan pos ilegal",
+        "timestamp": "2025-09-17T11:15:00Z"
+      },
+      {
+        "id_data": "SIN_003",
+        "deskripsi": "Data bencana BNPB",
+        "nilai": "Banjir melanda sebagian wilayah di Jawa Tengah, 500 warga mengungsi",
+        "timestamp": "2025-09-17T11:30:00Z"
+      },
+      {
+        "id_data": "SIN_004",
+        "deskripsi": "Data BMKG",
+        "nilai": "Peringatan dini gelombang tinggi di perairan utara Jawa",
+        "timestamp": "2025-09-17T11:45:00Z"
+      },
+      {
+        "id_data": "SIN_005",
+        "deskripsi": "Data logistik Bulog",
+        "nilai": "Stok beras di Jawa Timur aman, 120% dari kebutuhan",
+        "timestamp": "2025-09-18T00:00:00Z"
+      },
+      {
+        "id_data": "SIN_006",
+        "deskripsi": "Laporan Kemenkes",
+        "nilai": "Kasus demam berdarah meningkat di wilayah Banten",
+        "timestamp": "2025-09-18T00:15:00Z"
+      },
+      {
+        "id_data": "SIN_007",
+        "deskripsi": "Laporan intelijen BIN",
+        "nilai": "Kelompok teroris baru teridentifikasi di Poso",
+        "timestamp": "2025-09-18T00:30:00Z"
+      },
+      {
+        "id_data": "SIN_008",
+        "deskripsi": "Data Dukcapil",
+        "nilai": "Jumlah penduduk di wilayah DKI Jakarta meningkat 1.5% dalam sebulan terakhir",
+        "timestamp": "2025-09-18T00:45:00Z"
+      },
+      {
+        "id_data": "SIN_009",
+        "deskripsi": "Laporan Pertamina",
+        "nilai": "Distribusi BBM di wilayah Sumatera lancar, stok aman",
+        "timestamp": "2025-09-18T01:00:00Z"
+      },
+      {
+        "id_data": "SIN_010",
+        "deskripsi": "Laporan PLN",
+        "nilai": "Gangguan listrik skala besar di wilayah Sulawesi Selatan",
+        "timestamp": "2025-09-18T01:15:00Z"
+      },
+      {
+        "id_data": "SIN_011",
+        "deskripsi": "Laporan Kemenhub",
+        "nilai": "Data lalu lintas angkutan laut di Selat Sunda padat",
+        "timestamp": "2025-09-18T01:30:00Z"
+      },
+      {
+        "id_data": "SIN_012",
+        "deskripsi": "Laporan Bea Cukai",
+        "nilai": "Penangkapan kapal penyelundup barang di perbatasan laut",
+        "timestamp": "2025-09-18T01:45:00Z"
+      },
+      {
+        "id_data": "SIN_013",
+        "deskripsi": "Data Kementerian Keuangan",
+        "nilai": "Penurunan pendapatan negara dari sektor pariwisata",
+        "timestamp": "2025-09-18T02:00:00Z"
+      },
+      {
+        "id_data": "SIN_014",
+        "deskripsi": "Laporan operasi Polri",
+        "nilai": "Berhasil menggagalkan pengedaran narkoba di kota besar",
+        "timestamp": "2025-09-18T02:15:00Z"
+      },
+      {
+        "id_data": "SIN_015",
+        "deskripsi": "Data Kementerian Pertanian",
+        "nilai": "Produksi padi di Karawang mengalami gagal panen",
+        "timestamp": "2025-09-18T02:30:00Z"
+      },
+      {
+        "id_data": "SIN_016",
+        "deskripsi": "Laporan BMKG",
+        "nilai": "Tingkat kelembaban udara yang sangat tinggi berpotensi hujan lebat",
+        "timestamp": "2025-09-18T02:45:00Z"
+      },
+      {
+        "id_data": "SIN_017",
+        "deskripsi": "Data Dukcapil",
+        "nilai": "Pergerakan penduduk dari desa ke kota meningkat 5%",
+        "timestamp": "2025-09-18T03:00:00Z"
+      },
+      {
+        "id_data": "SIN_018",
+        "deskripsi": "Laporan BNPB",
+        "nilai": "Mendirikan posko darurat di wilayah terdampak banjir",
+        "timestamp": "2025-09-18T03:15:00Z"
+      },
+      {
+        "id_data": "SIN_019",
+        "deskripsi": "Data Kemendagri",
+        "nilai": "Peningkatan kasus sengketa lahan di beberapa daerah",
+        "timestamp": "2025-09-18T03:30:00Z"
+      },
+      {
+        "id_data": "SIN_020",
+        "deskripsi": "Laporan Kementerian Kesehatan",
+        "nilai": "Penyebaran virus baru terdeteksi di wilayah perkotaan",
+        "timestamp": "2025-09-18T03:45:00Z"
+      },
+      {
+        "id_data": "SIN_021",
+        "deskripsi": "Data Bulog",
+        "nilai": "Distribusi beras ke daerah terpencil terhambat cuaca buruk",
+        "timestamp": "2025-09-18T04:00:00Z"
+      },
+      {
+        "id_data": "SIN_022",
+        "deskripsi": "Laporan BIN",
+        "nilai": "Indikasi ancaman siber dari kelompok luar negeri",
+        "timestamp": "2025-09-18T04:15:00Z"
+      },
+      {
+        "id_data": "SIN_023",
+        "deskripsi": "Laporan Pertamina",
+        "nilai": "Stok avtur di Bandara Internasional Ngurah Rai aman",
+        "timestamp": "2025-09-18T04:30:00Z"
+      },
+      {
+        "id_data": "SIN_024",
+        "deskripsi": "Data PLN",
+        "nilai": "Peningkatan konsumsi listrik di musim kemarau",
+        "timestamp": "2025-09-18T04:45:00Z"
+      },
+      {
+        "id_data": "SIN_025",
+        "deskripsi": "Laporan TNI",
+        "nilai": "Peningkatan patroli keamanan di wilayah perairan",
+        "timestamp": "2025-09-18T05:00:00Z"
+      }
+    ],
+    "sumber_eksternal": [
+      {
+        "id_data": "SE_001",
+        "deskripsi": "Laporan PBB tentang pengungsi",
+        "nilai": "Jumlah pengungsi dari konflik di Asia Tenggara meningkat",
+        "timestamp": "2025-09-17T11:00:00Z"
+      },
+      {
+        "id_data": "SE_002",
+        "deskripsi": "Kerja sama intelijen internasional",
+        "nilai": "Informasi tentang jaringan perdagangan manusia",
+        "timestamp": "2025-09-17T12:00:00Z"
+      },
+      {
+        "id_data": "SE_003",
+        "deskripsi": "Data ASEAN tentang keamanan maritim",
+        "nilai": "Pembentukan patroli bersama di perairan perbatasan",
+        "timestamp": "2025-09-17T13:00:00Z"
+      },
+      {
+        "id_data": "SE_004",
+        "deskripsi": "Laporan WHO",
+        "nilai": "Peringatan wabah penyakit menular di negara tetangga",
+        "timestamp": "2025-09-17T14:00:00Z"
+      },
+      {
+        "id_data": "SE_005",
+        "deskripsi": "Laporan IMF",
+        "nilai": "Proyeksi pertumbuhan ekonomi global",
+        "timestamp": "2025-09-17T15:00:00Z"
+      },
+      {
+        "id_data": "SE_006",
+        "deskripsi": "Data intelijen internasional",
+        "nilai": "Aktivitas teroris terdeteksi di Asia Pasifik",
+        "timestamp": "2025-09-17T16:00:00Z"
+      },
+      {
+        "id_data": "SE_007",
+        "deskripsi": "Laporan NATO",
+        "nilai": "Informasi latihan militer gabungan di Samudra Hindia",
+        "timestamp": "2025-09-17T17:00:00Z"
+      },
+      {
+        "id_data": "SE_008",
+        "deskripsi": "Data Bank Dunia",
+        "nilai": "Laporan tentang indeks kemiskinan",
+        "timestamp": "2025-09-17T18:00:00Z"
+      },
+      {
+        "id_data": "SE_009",
+        "deskripsi": "Laporan ASEAN",
+        "nilai": "Rencana kerja sama logistik",
+        "timestamp": "2025-09-17T19:00:00Z"
+      },
+      {
+        "id_data": "SE_010",
+        "deskripsi": "Data Interpol",
+        "nilai": "Daftar buronan internasional yang dicurigai berada di wilayah Asia",
+        "timestamp": "2025-09-17T20:00:00Z"
+      },
+      {
+        "id_data": "SE_011",
+        "deskripsi": "Laporan PBB tentang perdamaian",
+        "nilai": "Situasi konflik di wilayah perbatasan",
+        "timestamp": "2025-09-17T21:00:00Z"
+      },
+      {
+        "id_data": "SE_012",
+        "deskripsi": "Data UNHCR",
+        "nilai": "Informasi tentang kamp pengungsi di perbatasan Indonesia",
+        "timestamp": "2025-09-17T22:00:00Z"
+      },
+      {
+        "id_data": "SE_013",
+        "deskripsi": "Kerja sama intelijen internasional",
+        "nilai": "Laporan tentang pergerakan kelompok radikal",
+        "timestamp": "2025-09-17T23:00:00Z"
+      },
+      {
+        "id_data": "SE_014",
+        "deskripsi": "Laporan IAEA",
+        "nilai": "Peringatan tentang keamanan nuklir",
+        "timestamp": "2025-09-18T00:00:00Z"
+      },
+      {
+        "id_data": "SE_015",
+        "deskripsi": "Data Interpol",
+        "nilai": "Informasi tentang kejahatan siber lintas negara",
+        "timestamp": "2025-09-18T01:00:00Z"
+      },
+      {
+        "id_data": "SE_016",
+        "deskripsi": "Laporan WTO",
+        "nilai": "Dampak ketidakstabilan ekonomi global terhadap perdagangan",
+        "timestamp": "2025-09-18T02:00:00Z"
+      },
+      {
+        "id_data": "SE_017",
+        "deskripsi": "Laporan ASEAN",
+        "nilai": "Rekomendasi kebijakan lingkungan",
+        "timestamp": "2025-09-18T03:00:00Z"
+      },
+      {
+        "id_data": "SE_018",
+        "deskripsi": "Data intelijen eksternal",
+        "nilai": "Peringatan tentang ancaman biologis",
+        "timestamp": "2025-09-18T04:00:00Z"
+      },
+      {
+        "id_data": "SE_019",
+        "deskripsi": "Laporan Bank Dunia",
+        "nilai": "Rekomendasi pembangunan infrastruktur",
+        "timestamp": "2025-09-18T05:00:00Z"
+      },
+      {
+        "id_data": "SE_020",
+        "deskripsi": "Laporan PBB tentang perubahan iklim",
+        "nilai": "Dampak kenaikan permukaan air laut terhadap wilayah pesisir",
+        "timestamp": "2025-09-18T06:00:00Z"
+      },
+      {
+        "id_data": "SE_021",
+        "deskripsi": "Data Interpol",
+        "nilai": "Informasi tentang sindikat kriminal internasional",
+        "timestamp": "2025-09-18T07:00:00Z"
+      },
+      {
+        "id_data": "SE_022",
+        "deskripsi": "Laporan ASEAN",
+        "nilai": "Rencana kerja sama pariwisata",
+        "timestamp": "2025-09-18T08:00:00Z"
+      },
+      {
+        "id_data": "SE_023",
+        "deskripsi": "Data intelijen internasional",
+        "nilai": "Ancaman perdagangan senjata ilegal",
+        "timestamp": "2025-09-18T09:00:00Z"
+      },
+      {
+        "id_data": "SE_024",
+        "deskripsi": "Laporan WHO",
+        "nilai": "Informasi tentang penyebaran penyakit menular",
+        "timestamp": "2025-09-18T10:00:00Z"
+      },
+      {
+        "id_data": "SE_025",
+        "deskripsi": "Data Bank Dunia",
+        "nilai": "Proyeksi pertumbuhan ekonomi",
+        "timestamp": "2025-09-18T11:00:00Z"
+      }
+    ],
+    "data_publik": [
+      {
+        "id_data": "DP_001",
+        "deskripsi": "Peringatan dini bencana",
+        "nilai": "Peringatan gempa bumi di Sulawesi Utara",
+        "timestamp": "2025-09-17T11:00:00Z"
+      },
+      {
+        "id_data": "DP_002",
+        "deskripsi": "Jalur evakuasi",
+        "nilai": "Jalur evakuasi C-1 diaktifkan untuk wilayah pesisir",
+        "timestamp": "2025-09-17T11:15:00Z"
+      },
+      {
+        "id_data": "DP_003",
+        "deskripsi": "Notifikasi darurat",
+        "nilai": "Notifikasi untuk warga di sekitar gunung berapi agar tetap waspada",
+        "timestamp": "2025-09-17T11:30:00Z"
+      },
+      {
+        "id_data": "DP_004",
+        "deskripsi": "Informasi status logistik",
+        "nilai": "Posko bantuan logistik tersedia di 15 titik",
+        "timestamp": "2025-09-17T11:45:00Z"
+      },
+      {
+        "id_data": "DP_005",
+        "deskripsi": "Peringatan dini banjir",
+        "nilai": "Peringatan banjir di wilayah hulu sungai Citarum",
+        "timestamp": "2025-09-18T00:00:00Z"
+      },
+      {
+        "id_data": "DP_006",
+        "deskripsi": "Notifikasi darurat",
+        "nilai": "Peringatan cuaca ekstrem di wilayah Jawa Tengah",
+        "timestamp": "2025-09-18T00:15:00Z"
+      },
+      {
+        "id_data": "DP_007",
+        "deskripsi": "Informasi jalur evakuasi",
+        "nilai": "Jalur evakuasi B-2 diaktifkan untuk warga terdampak tanah longsor",
+        "timestamp": "2025-09-18T00:30:00Z"
+      },
+      {
+        "id_data": "DP_008",
+        "deskripsi": "Peringatan dini tsunami",
+        "nilai": "Peringatan tsunami diaktifkan di wilayah pesisir Sumatra Barat",
+        "timestamp": "2025-09-18T00:45:00Z"
+      },
+      {
+        "id_data": "DP_009",
+        "deskripsi": "Informasi status gunung berapi",
+        "nilai": "Status gunung Merapi siaga level 2",
+        "timestamp": "2025-09-18T01:00:00Z"
+      },
+      {
+        "id_data": "DP_010",
+        "deskripsi": "Notifikasi darurat",
+        "nilai": "Peringatan potensi gempa susulan",
+        "timestamp": "2025-09-18T01:15:00Z"
+      },
+      {
+        "id_data": "DP_011",
+        "deskripsi": "Informasi titik pengungsian",
+        "nilai": "Titik pengungsian di kota Bandung berkapasitas 500 orang",
+        "timestamp": "2025-09-18T01:30:00Z"
+      },
+      {
+        "id_data": "DP_012",
+        "deskripsi": "Peringatan dini cuaca",
+        "nilai": "Peringatan gelombang tinggi di perairan Selat Bali",
+        "timestamp": "2025-09-18T01:45:00Z"
+      },
+      {
+        "id_data": "DP_013",
+        "deskripsi": "Informasi jalur evakuasi",
+        "nilai": "Jalur evakuasi C-3 diaktifkan untuk warga di sekitar area kebakaran",
+        "timestamp": "2025-09-18T02:00:00Z"
+      },
+      {
+        "id_data": "DP_014",
+        "deskripsi": "Notifikasi darurat",
+        "nilai": "Peringatan potensi tanah longsor di Puncak",
+        "timestamp": "2025-09-18T02:15:00Z"
+      },
+      {
+        "id_data": "DP_015",
+        "deskripsi": "Informasi status logistik",
+        "nilai": "Bantuan logistik medis telah tiba di lokasi bencana",
+        "timestamp": "2025-09-18T02:30:00Z"
+      },
+      {
+        "id_data": "DP_016",
+        "deskripsi": "Peringatan dini bencana",
+        "nilai": "Peringatan potensi angin puting beliung di wilayah Yogyakarta",
+        "timestamp": "2025-09-18T02:45:00Z"
+      },
+      {
+        "id_data": "DP_017",
+        "deskripsi": "Informasi titik pengungsian",
+        "nilai": "Daftar lokasi pengungsian sementara di Palu",
+        "timestamp": "2025-09-18T03:00:00Z"
+      },
+      {
+        "id_data": "DP_018",
+        "deskripsi": "Notifikasi darurat",
+        "nilai": "Peringatan bahaya abu vulkanik",
+        "timestamp": "2025-09-18T03:15:00Z"
+      },
+      {
+        "id_data": "DP_019",
+        "deskripsi": "Peringatan dini cuaca",
+        "nilai": "Peringatan gelombang laut tinggi di perairan Flores",
+        "timestamp": "2025-09-18T03:30:00Z"
+      },
+      {
+        "id_data": "DP_020",
+        "deskripsi": "Informasi status jembatan",
+        "nilai": "Jembatan utama di jalur evakuasi J-1 aman untuk dilewati",
+        "timestamp": "2025-09-18T03:45:00Z"
+      },
+      {
+        "id_data": "DP_021",
+        "deskripsi": "Peringatan dini banjir",
+        "nilai": "Peringatan banjir bandang di wilayah pegunungan",
+        "timestamp": "2025-09-18T04:00:00Z"
+      },
+      {
+        "id_data": "DP_022",
+        "deskripsi": "Notifikasi darurat",
+        "nilai": "Peringatan bahaya tanah longsor",
+        "timestamp": "2025-09-18T04:15:00Z"
+      },
+      {
+        "id_data": "DP_023",
+        "deskripsi": "Informasi jalur evakuasi",
+        "nilai": "Jalur evakuasi E-2 diaktifkan untuk warga di sekitar area kebakaran",
+        "timestamp": "2025-09-18T04:30:00Z"
+      },
+      {
+        "id_data": "DP_024",
+        "deskripsi": "Peringatan dini gempa bumi",
+        "nilai": "Peringatan gempa berkekuatan 6.2 SR di wilayah Maluku",
+        "timestamp": "2025-09-18T04:45:00Z"
+      },
+      {
+        "id_data": "DP_025",
+        "deskripsi": "Informasi titik pengungsian",
+        "nilai": "Daftar lokasi pengungsian sementara di daerah Tsunami",
+        "timestamp": "2025-09-18T05:00:00Z"
+      }
+    ]
+  }
+}
